@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  width: 10%;
+  color: red;
+
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+}
+.pg{
+
+  font-size: 2.123em;
+  font-weight: normal;
+
+  font-family: 'Libre Baskerville', serif;
+}
+h2
+{
+color: #66BFBF;
+font-family: 'Libre Baskerville', serif;
+
+  font-size: 3em;
+  padding-bottom: 10px;
+}
+h3
+{
+font-size: 1.76em;
+color: #11999E;
+  font-family: 'Libre Baskerville', serif;
+}
+.top-container {
+  background-color: powderblue;
+  position: relative;
+  padding-top: 60px;
+
+}
+
+.middle-container {
+  margin: 100px 0;
+
+
+}
+
+.bottom-container {
+
+background-color: powderblue;
+height: 150px;
+}
+.c1{
+
+  position: absolute;
+}
+.c2{
+  position: relative;
+  left: 250px;
+  top: 50px;
+
+}
+.sjs{
+  border-radius: 50%;
+}
+.footer-link{
+
+  color: #11999E;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: powderblue;
+  border-width: 5px;
+
+  width: 5%;
+
+
+}
+btn {
+
+  background: #11CDD4;
+
+  background-image: -webkit-gradient(top, #11CDD4, #11999E);
+
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+
+  -webkit-border-radius: 8;
+
+  -moz-border-radius: 8;
+
+  border-radius: 8px;
+
+  font-family: Arial;
+
+  color: #ffffff;
+
+  font-size: 20px;
+
+  padding: 10px 20px 10px 20px;
+
+  text-decoration: none;
+
+}
+
+
+
+.btn:hover {
+
+  background: #30E3CB;
+
+  background-image: -webkit-gradient(top, #11CDD4, #11999E);
+
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+
+  text-decoration: none;
+
+}
+.cop{
+  color: red;
+  text-decoration: none;
+}
+a{
+
+  text-decoration: none;
+}
+.c{
+  border-radius: 50%;
+}
+.v{
+  border-radius: 50%;
+}
